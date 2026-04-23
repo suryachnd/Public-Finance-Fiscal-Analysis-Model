@@ -45,9 +45,9 @@ Unit costs are benchmarked, extracted and derived from chatgpt using the followi
 
 ### 3. Fiscal Impact Model
 
-> Annual Cost = Total Cost / Timeframe
+`Annual Cost = Total Cost / Timeframe`
 
-> Fiscal Impact = Annual Cost * Fiscal Sign
+`Fiscal Impact = Annual Cost * Fiscal Sign`
 
 Where:
 
@@ -61,10 +61,10 @@ Where:
 
 ### 4. Standardization
 
-> % of GDP = Fiscal Impact / State GDP
+`% of GDP = Fiscal Impact / State GDP`
 
 Tamil Nadu GDP used:
-Rs. 35,656,000,000
+**Rs. 35,656,000,000**
 
 --- 
 
